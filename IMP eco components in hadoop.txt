@@ -1,0 +1,4 @@
+spark
+hive
+sqoop
+flume
